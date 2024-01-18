@@ -2,18 +2,103 @@
   "facts": [
     {
       "id": "01",
-      "title": "Several days",
-      "description": "Carbon monoxide level in the blood drops to level of someone who does not smoke"
+      "title": "Improved Circulation",
+      "description": "After 20 minutes of quitting smoking, your circulation improves. Blood pressure and heart rate decrease, reducing the risk of a heart attack."
     },
     {
       "id": "02",
-      "title": "1 to 12 months",
-      "description": "Coughing and shortness of breath decrease."
+      "title": "Nicotine Levels Drop",
+      "description": "After 8 hours, nicotine and carbon monoxide levels in your blood decrease, and oxygen levels rise."
     },
     {
       "id": "03",
-      "title": "1 to 2 years",
-      "description": "Risk of heart attack drops sharply"
+      "title": "Health Benefits Over Time",
+      "description": "After 1 day, carbon monoxide is eliminated; after 2-3 days, sense of taste and smell improve; after 2-12 weeks, circulation improves and lung function increases."
+    },
+    {
+      "id": "04",
+      "title": "Reduced Risk of Diseases",
+      "description": "After 1 year, the risk of coronary heart disease is half that of a smoker's; after 10 years, the risk of lung cancer is half that of a smoker's."
+    },
+    {
+      "id": "05",
+      "title": "Improved Fertility",
+      "description": "For those trying to conceive, quitting smoking can improve fertility and increase the chances of a healthy pregnancy."
+    },
+    {
+      "id": "06",
+      "title": "Youthful Skin",
+      "description": "Quitting smoking can lead to improved skin health, reducing premature aging and wrinkles."
+    },
+    {
+      "id": "07",
+      "title": "Better Dental Health",
+      "description": "Quitting smoking lowers the risk of gum disease and tooth loss, leading to better oral health."
+    },
+    {
+      "id": "08",
+      "title": "Improved Mood",
+      "description": "As the body adjusts to life without nicotine, many people experience improved mood and reduced stress."
+    },
+    {
+      "id": "09",
+      "title": "Financial Savings",
+      "description": "Quitting smoking saves money in the long run, as cigarettes can be a significant ongoing expense."
+    },
+    {
+      "id": "10",
+      "title": "Improved Lung Function",
+      "description": "Over time, lung function improves, making activities like climbing stairs and exercising easier."
+    },
+    {
+      "id": "11",
+      "title": "Lowered Risk of Stroke",
+      "description": "Quitting smoking lowers the risk of stroke, contributing to overall cardiovascular health."
+    },
+    {
+      "id": "12",
+      "title": "Improved Immune System",
+      "description": "A smoke-free lifestyle supports a stronger immune system, helping the body fight off infections."
+    },
+    {
+      "id": "13",
+      "title": "Reduced Respiratory Infections",
+      "description": "Quitting smoking reduces the risk of respiratory infections, such as colds and flu."
+    },
+    {
+      "id": "14",
+      "title": "Better Sleep",
+      "description": "Many people experience improved sleep quality after quitting smoking, leading to better overall well-being."
+    },
+    {
+      "id": "15",
+      "title": "Improved Taste and Smell",
+      "description": "Quitting smoking enhances the senses of taste and smell, making food more enjoyable."
+    },
+    {
+      "id": "16",
+      "title": "Lowered Risk of Diabetes",
+      "description": "Non-smokers generally have a lower risk of developing type 2 diabetes compared to smokers."
+    },
+    {
+      "id": "17",
+      "title": "Healthier Heart and Blood Vessels",
+      "description": "Quitting smoking contributes to a healthier heart and blood vessels, supporting overall cardiovascular health."
+    },
+    {
+      "id": "18",
+      "title": "Improved Concentration",
+      "description": "Many ex-smokers report better concentration and cognitive function after quitting."
+    },
+    {
+      "id": "19",
+      "title": "Increased Life Expectancy",
+      "description": "Quitting smoking is associated with an increased life expectancy and a longer, healthier life."
+    },
+    {
+      "id": "20",
+      "title": "Positive Impact on Others",
+      "description": "Quitting smoking not only benefits your health but also has a positive impact on those around you, reducing secondhand smoke exposure."
     }
   ]
 }
