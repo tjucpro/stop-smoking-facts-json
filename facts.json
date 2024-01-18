@@ -1,0 +1,19 @@
+{
+  "facts": [
+    {
+      "id": "01",
+      "title": "Several days",
+      "description": "Carbon monoxide level in the blood drops to level of someone who does not smoke"
+    },
+    {
+      "id": "02",
+      "title": "1 to 12 months",
+      "description": "Coughing and shortness of breath decrease."
+    },
+    {
+      "id": "03",
+      "title": "1 to 2 years",
+      "description": "Risk of heart attack drops sharply"
+    }
+  ]
+}
